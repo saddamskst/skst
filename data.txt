@@ -1168,3 +1168,4 @@ Demo file365 days ago
 973 days ago - Fixed typo in README
 973 days ago - Fixed typo in README
 973 days ago - Fixed a critical bug
+973 days ago - Improved documentation

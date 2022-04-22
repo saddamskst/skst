@@ -1336,3 +1336,4 @@ Demo file365 days ago
 945 days ago - Fixed a critical bug
 945 days ago - Improved documentation
 945 days ago - Added unit tests
+945 days ago - Implemented new algorithm

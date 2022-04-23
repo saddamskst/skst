@@ -1346,3 +1346,4 @@ Demo file365 days ago
 944 days ago - Improved documentation
 944 days ago - Updated dependencies
 944 days ago - Improved error handling
+944 days ago - Fixed a critical bug

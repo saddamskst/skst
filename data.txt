@@ -1372,3 +1372,4 @@ Demo file365 days ago
 941 days ago - Refactored code for better performance
 941 days ago - Fixed a critical bug
 941 days ago - Fixed typo in README
+941 days ago - Fixed deployment issues

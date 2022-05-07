@@ -1443,3 +1443,4 @@ Demo file365 days ago
 930 days ago - Fixed a critical bug
 930 days ago - Fixed a critical bug
 930 days ago - Added new feature
+930 days ago - Optimized database queries

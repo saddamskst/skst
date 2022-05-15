@@ -1494,3 +1494,4 @@ Demo file365 days ago
 922 days ago - Fixed a critical bug
 922 days ago - Fixed a critical bug
 922 days ago - Updated dependencies
+922 days ago - Fixed deployment issues

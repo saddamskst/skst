@@ -1561,3 +1561,4 @@ Demo file365 days ago
 912 days ago - Improved documentation
 911 days ago - Fixed deployment issues
 911 days ago - Added new feature
+911 days ago - Fixed typo in README

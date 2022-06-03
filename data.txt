@@ -1618,3 +1618,4 @@ Demo file365 days ago
 904 days ago - Improved documentation
 903 days ago - Updated configuration files
 903 days ago - Updated configuration files
+903 days ago - Fixed a critical bug

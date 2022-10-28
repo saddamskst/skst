@@ -2497,3 +2497,4 @@ Demo file365 days ago
 756 days ago - Improved documentation
 756 days ago - Optimized database queries
 756 days ago - Fixed a critical bug
+756 days ago - Fixed typo in README

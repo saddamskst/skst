@@ -2577,3 +2577,4 @@ Demo file365 days ago
 744 days ago - Implemented new algorithm
 744 days ago - Added comments for clarity
 744 days ago - Added comments for clarity
+744 days ago - Fixed typo in README

@@ -2919,3 +2919,4 @@ Demo file365 days ago
 684 days ago - Fixed deployment issues
 684 days ago - Fixed a critical bug
 684 days ago - Fixed a critical bug
+684 days ago - Fixed typo in README

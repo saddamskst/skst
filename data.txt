@@ -2931,3 +2931,4 @@ Demo file365 days ago
 681 days ago - Updated configuration files
 681 days ago - Fixed typo in README
 680 days ago - Updated configuration files
+680 days ago - Fixed a critical bug

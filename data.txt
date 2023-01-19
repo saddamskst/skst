@@ -2989,3 +2989,4 @@ Demo file365 days ago
 674 days ago - Added new feature
 674 days ago - Updated configuration files
 674 days ago - Fixed a critical bug
+673 days ago - Fixed typo in README

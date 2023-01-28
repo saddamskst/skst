@@ -3048,3 +3048,4 @@ Demo file365 days ago
 664 days ago - Updated dependencies
 664 days ago - Enhanced UI components
 664 days ago - Improved documentation
+664 days ago - Fixed a critical bug

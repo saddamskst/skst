@@ -3435,3 +3435,4 @@ Demo file365 days ago
 597 days ago - Fixed deployment issues
 597 days ago - Improved documentation
 597 days ago - Fixed deployment issues
+597 days ago - Fixed typo in README

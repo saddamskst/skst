@@ -3691,3 +3691,4 @@ Demo file365 days ago
 555 days ago - Fixed typo in README
 555 days ago - Fixed deployment issues
 555 days ago - Fixed deployment issues
+555 days ago - Fixed a critical bug

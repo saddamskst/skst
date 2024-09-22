@@ -6701,3 +6701,4 @@ Demo file365 days ago
 62 days ago - Updated dependencies
 62 days ago - Improved documentation
 62 days ago - Improved error handling
+61 days ago - Fixed a critical bug

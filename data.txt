@@ -6712,3 +6712,4 @@ Demo file365 days ago
 61 days ago - Refactored code for better performance
 61 days ago - Fixed deployment issues
 60 days ago - Fixed deployment issues
+60 days ago - Fixed a critical bug

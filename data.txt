@@ -6899,3 +6899,4 @@ Demo file365 days ago
 31 days ago - Improved documentation
 31 days ago - Improved documentation
 30 days ago - Added unit tests
+30 days ago - Fixed a critical bug

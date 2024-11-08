@@ -7004,3 +7004,4 @@ Demo file365 days ago
 14 days ago - Improved documentation
 14 days ago - Improved documentation
 14 days ago - Improved error handling
+14 days ago - Fixed typo in README
